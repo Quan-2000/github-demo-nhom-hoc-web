@@ -1,6 +1,5 @@
 .category{
     color: rgb(7, 7, 121);
-    font-weight: bold;
 }
 
 .left{
@@ -13,6 +12,7 @@
 
 a{
     text-decoration: none !important;
+    font-weight: bold;
 }
 
 .time{
@@ -21,10 +21,13 @@ a{
 
 .content{
     color: grey;
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
 }
 
 .title{
     color: black;
+    font-style: 30px;
 }
 
 .img1{
