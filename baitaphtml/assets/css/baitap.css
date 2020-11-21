@@ -1,0 +1,33 @@
+.category{
+    color: rgb(7, 7, 121);
+    font-weight: bold;
+}
+
+.left{
+    float: left;
+}
+
+.right{
+    padding-left: 250px;
+}
+
+a{
+    text-decoration: none !important;
+}
+
+.time{
+    color: gray;
+}
+
+.content{
+    color: grey;
+}
+
+.title{
+    color: black;
+}
+
+.img1{
+    width: 150x;
+    height: 150px;
+}
